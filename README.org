@@ -4,7 +4,7 @@ Thread-safe queue for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/plkrueger/tsqueue.git   |
-| commit  | {"messa  |
+| commit  | c5b8400  |
 | systems | tsqueue |
 |---------+-------------------------------------------|
 
