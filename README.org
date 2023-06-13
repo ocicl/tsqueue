@@ -1,0 +1,10 @@
+* tsqueue
+
+Thread-safe queue for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/plkrueger/tsqueue.git   |
+| commit  | {"messa  |
+| systems | tsqueue |
+|---------+-------------------------------------------|
+
